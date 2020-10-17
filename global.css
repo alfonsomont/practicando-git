@@ -1,0 +1,9 @@
+*,*::before,*::after{
+margin: 0px;
+
+}
+
+body{
+    background: yellow;
+    background-color: tomato;
+}
